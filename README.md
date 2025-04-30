@@ -1,10 +1,5 @@
-About me ◽️ 👨🏻‍💻 Front-End Engineer (9+ years) ◽️ 🎬 React.js Instructor on Udemy ◽️ 🎯 Mentor for Developers
+About me ◽️ 👨🏻‍💻 Front-End Engineer (7+ years) ◽️ 🎬 React.js Instructor ◽️ 🎯 Mentor for Developers
 
-My courses
-
-◽️ [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?referralCode=C70BB647069AB126D136)
-
-◽️ [React Crash Course: From Zero to Hero](https://www.udemy.com/course/react-crash-course-from-zero-to-hero/?referralCode=FFEE417046C196879B4F&couponCode=CPSALEBRAND24)
 
 # AI Chatbot App
 
