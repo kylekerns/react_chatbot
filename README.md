@@ -1,4 +1,6 @@
-About me ◽️ 👨🏻‍💻 Front-End Engineer (7+ years) ◽️ 🎬 React.js Instructor ◽️ 🎯 Mentor for Developers
+About Me 
+
+◽️ 👨🏻‍💻 Front-End Engineer (7+ years) ◽️ 🎬 React.js Instructor ◽️ 🎯 Mentor for Developers
 
 
 # AI Chatbot App
