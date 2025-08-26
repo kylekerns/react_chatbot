@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Assistant } from "./assistants/deepseekai";
+import { Assistant } from "./assistants/openai";
 import { Loader } from "./components/Loader/Loader";
 import { Chat } from "./components/Chat/Chat";
 import { Controls } from "./components/Controls/Controls";
